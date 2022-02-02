@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ## I'm a student at IITM.
 ## I'm currently learning Data Science.
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
