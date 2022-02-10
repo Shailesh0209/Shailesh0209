@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 ## I'm a student at IITM.
 ## I'm currently learning Data Science.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
+<a align="right"> <img src="https://myoctocat.com/assets/images/base-octocat.svg"></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailesh0209&label=Profile%20views&color=0e75b6&style=flat" alt="Shailesh0209" /> </p>
 
 
+<!-- 
+![Stars]( 
+
+-->
