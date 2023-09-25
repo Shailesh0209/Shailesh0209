@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ...Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shailx876/)
+- [Insta](https://www.instagram.com/shailx_kr/)
+- [Kaggle](https://www.kaggle.com/shailx)
 
-## I'm a student at IITM.
-## I'm currently learning Data Science.
+## I'm currently working as a Full stack data sctienctist at [FutureGen Innovation Lab](https://www.linkedin.com/company/futuregen-innovation-lab/).
+
+## I'm also a student at IITM'24.
 
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 <!-- <a align="right"> <img src="https://myoctocat.com/assets/images/base-octocat.svg"></a> -->
