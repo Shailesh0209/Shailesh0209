@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Worked as a Full stack data sctienctist at [FutureGen Innovation Lab](https://www.linkedin.com/company/futuregen-innovation-lab/).
 
-## student at IITM'24.
+## Student at IITM'24.
 
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 <!-- <a align="right"> <img src="https://myoctocat.com/assets/images/base-octocat.svg"></a> -->
