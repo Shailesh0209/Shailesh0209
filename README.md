@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - [Insta](https://www.instagram.com/shailx_kr/)
 - [Kaggle](https://www.kaggle.com/shailx)
 
-## I'm currently working as a Full stack data sctienctist at [FutureGen Innovation Lab](https://www.linkedin.com/company/futuregen-innovation-lab/).
+## Currently working as an intern at [Sudha Gopalakrishnan Brain Centre (SGBC)](https://www.linkedin.com/company/sudhagopalakrishnanbraincentre)
+
+## Worked as a Full stack data sctienctist at [FutureGen Innovation Lab](https://www.linkedin.com/company/futuregen-innovation-lab/).
 
 ## I'm also a student at IITM'24.
 
