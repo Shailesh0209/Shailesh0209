@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/shailx876/)
 - [Kaggle](https://www.kaggle.com/shailx)
 
-## Currently working as an intern at [Sudha Gopalakrishnan Brain Centre (SGBC)](https://www.linkedin.com/company/sudhagopalakrishnanbraincentre)
+## worked as an intern at [Sudha Gopalakrishnan Brain Centre (SGBC)](https://www.linkedin.com/company/sudhagopalakrishnanbraincentre)
 
 ## Worked as a Full stack data sctienctist at [FutureGen Innovation Lab](https://www.linkedin.com/company/futuregen-innovation-lab/).
 
