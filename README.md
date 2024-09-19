@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 ## ...Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shailx876/)
-- [Insta](https://www.instagram.com/shailx_kr/)
 - [Kaggle](https://www.kaggle.com/shailx)
 
 ## Currently working as an intern at [Sudha Gopalakrishnan Brain Centre (SGBC)](https://www.linkedin.com/company/sudhagopalakrishnanbraincentre)
