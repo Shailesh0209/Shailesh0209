@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/shailx876/)
 - [Kaggle](https://www.kaggle.com/shailx)
 
-## Currently, working as a Project Technician at [SPEECH LAB](https://asr.iitm.ac.in/)
+## Currently, working as a Project Technician at [SPEECH LAB](https://asr.iitm.ac.in/), IIT Madras
 
 ## worked as an intern at [Sudha Gopalakrishnan Brain Centre (SGBC)](https://www.linkedin.com/company/sudhagopalakrishnanbraincentre)
 
